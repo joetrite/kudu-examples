@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Sample {
+  
 
   private static final String KUDU_MASTER = System.getProperty(
       "kuduMaster", "quickstart.cloudera");
